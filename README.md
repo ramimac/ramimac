@@ -1,4 +1,31 @@
-### Hi there 👋
+### Heyo 👋
+
+I'm Rami (he/him). My day job is as a security consultant at NCC Group. Always happy to talk shop - you can [find me on Twitter](https://twitter.com/ramimacisabird).
+
+### Some things I've done
+
+**Blogging**
+
+*For NCC Group*
+
+* [One Thousand Misspelled Security Headers](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/july/misspelled-security-headers/)
+* A guide to hardening enterprise Chromebooks (in three parts)
+   * [Part One: Baseline Security Posture](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/july/chromebooks/)
+   * [Part Two: ChromeOS Hardening](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/july/chromebooks2/)
+   * [Part Three: Chrome Browser Configuration](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/july/chromebooks-3/)
+* [`sadcloud` release post](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/october/sadcloud/)
+* [The Extended AWS Security Ramp-up Guide](https://research.nccgroup.com/2020/04/24/the-extended-aws-security-ramp-up-guide/)
+* [An offensive guide to the Authorization Code grant](https://research.nccgroup.com/2020/07/07/an-offensive-guide-to-the-authorization-code-grant/)
+
+*Personal Blog*
+
+https://ramimac.me/
+
+**Tooling**
+
+* Contributor to [ScoutSuite](https://github.com/nccgroup/scoutsuite) as well as the proprietary branch
+* Developer of [sadcloud](https://github.com/nccgroup/sadcloud)
+
 
 <!--
 **ramimac/ramimac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
