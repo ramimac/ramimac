@@ -19,12 +19,19 @@ I'm Rami (he/him). My day job is as a security consultant at NCC Group. Always h
 
 *Personal Blog*
 
-https://ramimac.me/
+* [An AWS IAM Security Tooling Reference ](https://ramimac.me/cloudsec/security/aws-iam-tool-reference/) 
 
 **Tooling**
 
 * Contributor to [ScoutSuite](https://github.com/nccgroup/scoutsuite) as well as the proprietary branch
 * Developer of [sadcloud](https://github.com/nccgroup/sadcloud)
+
+**Speaking**
+
+* [OWASP BASC 2019: AWS Cloud Security Fundamentals (4 hour workshop)](https://speakerdeck.com/ramimac/aws-cloud-security-fundamentals)
+* [BSidesCT 2019: Building Castles in the Cloud: AWS Security and Self-Assessment](https://speakerdeck.com/ramimac/building-castles-in-the-cloud-aws-security-and-self-assessment)
+* [BSidesBOS 2020: AWS Security: Easy Wins and Enterprise Scale](https://speakerdeck.com/ramimac/aws-security-easy-wins-and-enterprise-scale)
+* BSidesCT 2020
 
 
 <!--
