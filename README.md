@@ -28,10 +28,10 @@ I'm Rami (he/him). My day job is as a security consultant at NCC Group. Always h
 
 **Speaking**
 
-* [OWASP BASC 2019: AWS Cloud Security Fundamentals (4 hour workshop)](https://speakerdeck.com/ramimac/aws-cloud-security-fundamentals)
-* [BSidesCT 2019: Building Castles in the Cloud: AWS Security and Self-Assessment](https://speakerdeck.com/ramimac/building-castles-in-the-cloud-aws-security-and-self-assessment)
-* [BSidesBOS 2020: AWS Security: Easy Wins and Enterprise Scale](https://speakerdeck.com/ramimac/aws-security-easy-wins-and-enterprise-scale)
-* BSidesCT 2020
+* [OWASP BASC 2019 - AWS Cloud Security Fundamentals (4 hour workshop)](https://speakerdeck.com/ramimac/aws-cloud-security-fundamentals)
+* [BSidesCT 2019 - Building Castles in the Cloud: AWS Security and Self-Assessment](https://speakerdeck.com/ramimac/building-castles-in-the-cloud-aws-security-and-self-assessment)
+* [BSidesBOS 2020 - AWS Security: Easy Wins and Enterprise Scale](https://speakerdeck.com/ramimac/aws-security-easy-wins-and-enterprise-scale)
+* BSidesCT 2020 - Learning from AWS (Customer) Security Incidents
 
 
 <!--
