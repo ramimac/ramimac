@@ -1,10 +1,14 @@
 ### Heyo 👋
 
-I'm Rami (he/him). My day job is as a security consultant at NCC Group. Always happy to talk shop - you can [find me on Twitter](https://twitter.com/ramimacisabird).
+I'm Rami (he/him). I'm a former security consultant, turned Product Security Engineer. Always happy to talk shop - you can [find me on Twitter](https://twitter.com/ramimacisabird).
 
 ### Some things I've done
 
 **Blogging**
+
+*Personal Blog*
+
+* [An AWS IAM Security Tooling Reference ](https://ramimac.me/cloudsec/security/aws-iam-tool-reference/) 
 
 *For NCC Group*
 
@@ -16,10 +20,6 @@ I'm Rami (he/him). My day job is as a security consultant at NCC Group. Always h
 * [`sadcloud` release post](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/october/sadcloud/)
 * [The Extended AWS Security Ramp-up Guide](https://research.nccgroup.com/2020/04/24/the-extended-aws-security-ramp-up-guide/)
 * [An offensive guide to the Authorization Code grant](https://research.nccgroup.com/2020/07/07/an-offensive-guide-to-the-authorization-code-grant/)
-
-*Personal Blog*
-
-* [An AWS IAM Security Tooling Reference ](https://ramimac.me/cloudsec/security/aws-iam-tool-reference/) 
 
 **Tooling**
 
