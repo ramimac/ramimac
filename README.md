@@ -31,7 +31,7 @@ I'm Rami (he/him). I'm a former security consultant, turned Product Security Eng
 * [OWASP BASC 2019 - AWS Cloud Security Fundamentals (4 hour workshop)](https://speakerdeck.com/ramimac/aws-cloud-security-fundamentals)
 * [BSidesCT 2019 - Building Castles in the Cloud: AWS Security and Self-Assessment](https://speakerdeck.com/ramimac/building-castles-in-the-cloud-aws-security-and-self-assessment)
 * [BSidesBOS 2020 - AWS Security: Easy Wins and Enterprise Scale](https://speakerdeck.com/ramimac/aws-security-easy-wins-and-enterprise-scale)
-* BSidesCT 2020 - Learning from AWS (Customer) Security Incidents
+* [BSidesCT 2020 - Learning from AWS (Customer) Security Incidents](https://speakerdeck.com/ramimac/learning-from-aws-customer-security-incidents)
 
 
 <!--
