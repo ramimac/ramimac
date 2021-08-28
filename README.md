@@ -6,6 +6,10 @@ I'm Rami (he/him). I'm a former security consultant, turned Product Security Eng
 
 **Blogging**
 
+*with tl;dr sec*
+
+* [Cloud Security Orienteering](https://tldrsec.com/blog/cloud-security-orienteering/)
+
 *Personal Blog*
 
 * [An AWS IAM Security Tooling Reference ](https://ramimac.me/cloudsec/security/aws-iam-tool-reference/) 
