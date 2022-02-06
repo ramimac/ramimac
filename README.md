@@ -14,6 +14,10 @@ I'm Rami (he/him). I'm a former security consultant, turned Product Security Eng
 
 * [An AWS IAM Security Tooling Reference ](https://ramimac.me/cloudsec/security/aws-iam-tool-reference/) 
 
+*For Cedar*
+
+* [Defining Cedar's Security Values](https://decode.cedar.com/defining-cedars-security-values/)
+
 *For NCC Group*
 
 * [One Thousand Misspelled Security Headers](https://web.archive.org/web/20191111000822/https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/july/misspelled-security-headers/)
