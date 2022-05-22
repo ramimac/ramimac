@@ -40,6 +40,7 @@ I'm Rami (he/him). I'm a former security consultant, turned Product Security Eng
 * [BSidesBOS 2020 - AWS Security: Easy Wins and Enterprise Scale](https://speakerdeck.com/ramimac/aws-security-easy-wins-and-enterprise-scale)
 * [BSidesCT 2020 - Learning from AWS (Customer) Security Incidents](https://speakerdeck.com/ramimac/learning-from-aws-customer-security-incidents)
 * [DEF CON Cloud Village 2021 - Cloud Security Orienteering](https://speakerdeck.com/ramimac/cloud-security-orienteering)
+* [OWASP DevSlop May 2022 - Learning from AWS (Customer) Security Incidents \[2022\]](https://www.youtube.com/watch?v=JBUgAXvcObU)
 
 
 <!--
