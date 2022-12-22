@@ -6,6 +6,8 @@ I'm Rami (he/him). I'm a former security consultant, turned Product Security Eng
 
 **Blogging**
 
+* *Datadog Security Labs* [A retrospective on public cloud breaches of 2022, with Rami McCarthy and Houston Hopkins
+](https://securitylabs.datadoghq.com/articles/public-cloud-breaches-2022-mccarthy-hopkins/)
 * *tl;dr sec* [Staff Security Engineer (stories)](https://tldrsec.com/guides/staffeng-security/)
 * *tl;dr sec* [Cloud Security Orienteering](https://tldrsec.com/blog/cloud-security-orienteering/)
 * *tl;dr sec* [Buying Security: A Client's Guide](https://tldrsec.com/guides/buying-security/)
