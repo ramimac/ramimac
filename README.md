@@ -6,21 +6,24 @@ I'm Rami (he/him). I'm a former security consultant, turned Product Security Eng
 
 **Blogging**
 
+* [AWS Phishing: Four Ways](https://ramimac.me/aws-phishing)
 * *Datadog Security Labs* [A retrospective on public cloud breaches of 2022, with Rami McCarthy and Houston Hopkins
 ](https://securitylabs.datadoghq.com/articles/public-cloud-breaches-2022-mccarthy-hopkins/)
-* *tl;dr sec* [Staff Security Engineer (stories)](https://tldrsec.com/guides/staffeng-security/)
-* *tl;dr sec* [Cloud Security Orienteering](https://tldrsec.com/blog/cloud-security-orienteering/)
-* *tl;dr sec* [Buying Security: A Client's Guide](https://tldrsec.com/guides/buying-security/)
-* *Personal Blog* [Removing sensitive data from a Github repository](http://ramimac.me/security/Github-Cleanup/) 
-* *Personal Blog* [An AWS IAM Security Tooling Reference](https://ramimac.me/cloudsec/security/aws-iam-tool-reference/) 
+* *tl;dr sec* 
+  * [Staff Security Engineer (stories)](https://tldrsec.com/guides/staffeng-security/)
+  * [Cloud Security Orienteering](https://tldrsec.com/blog/cloud-security-orienteering/)
+  * [Buying Security: A Client's Guide](https://tldrsec.com/guides/buying-security/)
+* [Removing sensitive data from a Github repository](http://ramimac.me/security/Github-Cleanup/) 
+* [An AWS IAM Security Tooling Reference](https://ramimac.me/cloudsec/security/aws-iam-tool-reference/) 
 * *Cedar* [Defining Cedar's Security Values](https://decode.cedar.com/defining-cedars-security-values/)
-* *NCC Group* [One Thousand Misspelled Security Headers](https://web.archive.org/web/20191111000822/https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/july/misspelled-security-headers/)
-* *NCC Group* A guide to hardening enterprise Chromebooks (in three parts)
-   * [Part One: Baseline Security Posture](https://web.archive.org/web/20191117201110/https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/july/chromebooks/)
-   * [Part Two: ChromeOS Hardening](https://web.archive.org/web/20191117201434/https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/july/chromebooks2/)
-   * [Part Three: Chrome Browser Configuration](https://web.archive.org/web/20200428220637/https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/july/chromebooks-3)
-* *NCC Group* [The Extended AWS Security Ramp-up Guide](https://research.nccgroup.com/2020/04/24/the-extended-aws-security-ramp-up-guide/)
-* *NCC Group* [An offensive guide to the Authorization Code grant](https://research.nccgroup.com/2020/07/07/an-offensive-guide-to-the-authorization-code-grant/)
+* *NCC Group* 
+  * [One Thousand Misspelled Security Headers](https://web.archive.org/web/20191111000822/https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/july/misspelled-security-headers/)
+  * A guide to hardening enterprise Chromebooks (in three parts)
+    * [Part One: Baseline Security Posture](https://web.archive.org/web/20191117201110/https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/july/chromebooks/)
+    * [Part Two: ChromeOS Hardening](https://web.archive.org/web/20191117201434/https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/july/chromebooks2/)
+    * [Part Three: Chrome Browser Configuration](https://web.archive.org/web/20200428220637/https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/july/chromebooks-3)
+  * [The Extended AWS Security Ramp-up Guide](https://research.nccgroup.com/2020/04/24/the-extended-aws-security-ramp-up-guide/)
+  * [An offensive guide to the Authorization Code grant](https://research.nccgroup.com/2020/07/07/an-offensive-guide-to-the-authorization-code-grant/)
 
 **Tooling**
 
