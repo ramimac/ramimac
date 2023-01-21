@@ -6,7 +6,7 @@ I'm Rami (he/him). I'm a former security consultant, turned Product Security Eng
 
 **Blogging**
 
-* [AWS Phishing: Four Ways](https://ramimac.me/aws-phishing)
+* [AWS Phishing: Four Ways](https://ramimac.me/aws-phishing) & [AWS Could Do More About SSO Device Auth Phishing ](https://ramimac.me/aws-device-auth)
 * *Datadog Security Labs* [A retrospective on public cloud breaches of 2022, with Rami McCarthy and Houston Hopkins
 ](https://securitylabs.datadoghq.com/articles/public-cloud-breaches-2022-mccarthy-hopkins/)
 * *tl;dr sec* 
