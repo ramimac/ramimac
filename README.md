@@ -32,7 +32,7 @@ I'm Rami (he/him). I'm a former security consultant, turned Product Security Eng
 * Developer of [sadcloud](https://github.com/nccgroup/sadcloud)
 
 **Speaking**
-
+* [BSidesSF May 2023 - Level Up Your Career: A Panel on Staff+ Engineering](https://www.youtube.com/watch?v=OJyFP14tgjk)
 * [BSidesSF June 2022 - Buying Security: A Client's Guide](https://www.youtube.com/watch?v=UmpKy0iTGTg)
 * [OWASP DevSlop May 2022 - Learning from AWS (Customer) Security Incidents \[2022\]](https://www.youtube.com/watch?v=JBUgAXvcObU)
 * [DEF CON Cloud Village 2021 - Cloud Security Orienteering](https://speakerdeck.com/ramimac/cloud-security-orienteering)
