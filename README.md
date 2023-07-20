@@ -35,6 +35,7 @@ I'm Rami (he/him). I'm a former security consultant, turned Product Security Eng
 * Developer of [sadcloud](https://github.com/nccgroup/sadcloud)
 
 **Speaking**
+* [fwd:cloudsec 2023 - Beyond the AWS Security Maturity Roadmap](https://www.youtube.com/watch?v=V4TIcBSR1w8)
 * [BSidesSF May 2023 - Level Up Your Career: A Panel on Staff+ Engineering](https://www.youtube.com/watch?v=OJyFP14tgjk)
 * [BSidesSF June 2022 - Buying Security: A Client's Guide](https://www.youtube.com/watch?v=UmpKy0iTGTg)
 * [OWASP DevSlop May 2022 - Learning from AWS (Customer) Security Incidents \[2022\]](https://www.youtube.com/watch?v=JBUgAXvcObU)
