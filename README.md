@@ -4,10 +4,10 @@ I'm Rami (he/him). I'm a former security consultant, turned Product Security Eng
 
 ### Some things I've done
 
-* [**Adhoc Wiki**](https://ramimac.github.io/wiki)
 
 **Blogging**
 
+* [My "wiki"](https://ramimac.github.io/wiki)
 * *Return on Security* [Signal v. Noise in the RSA Innovation Sandbox](https://www.returnonsecurity.com/signal-v-noise-in-the-rsa-innovation-sandbox/)
 * [AWS Phishing: Four Ways](https://ramimac.me/aws-phishing) & [AWS Could Do More About SSO Device Auth Phishing ](https://ramimac.me/aws-device-auth)
 * *Datadog Security Labs* [A retrospective on public cloud breaches of 2022, with Rami McCarthy and Houston Hopkins
