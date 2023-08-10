@@ -8,7 +8,7 @@ I'm Rami (he/him). I'm a former security consultant, turned Product Security Eng
 **Blogging**
 
 
-* [My "wiki"](https://ramimac.github.io/wiki)
+* [rami.wiki](https://rami.wiki)
 * [A Guide to S3 Logging](https://ramimac.me/s3-logging)
 * [Reducing Attack Surface with AWS Allowlisting](https://ramimac.me/aws-allowlisting)
 * *Return on Security* [Signal v. Noise in the RSA Innovation Sandbox](https://www.returnonsecurity.com/signal-v-noise-in-the-rsa-innovation-sandbox/)
