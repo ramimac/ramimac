@@ -8,6 +8,8 @@ I'm Rami (he/him). I'm a former security consultant, turned Product Security Eng
 **Blogging**
 
 
+* [Risk in AWS SSM Port Forwarding](https://ramimac.me/ssm-iam)
+* [Shipping RDS IAM Authentication (with a bastion host & SSM)](https://ramimac.me/rds-iam-auth)
 * [rami.wiki](https://rami.wiki)
 * [A Guide to S3 Logging](https://ramimac.me/s3-logging)
 * [Reducing Attack Surface with AWS Allowlisting](https://ramimac.me/aws-allowlisting)
