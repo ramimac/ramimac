@@ -14,7 +14,7 @@ I'm Rami (he/him). I'm a former security consultant, turned Product Security Eng
 * [A Guide to S3 Logging](https://ramimac.me/s3-logging)
 * [Reducing Attack Surface with AWS Allowlisting](https://ramimac.me/aws-allowlisting)
 * *Return on Security* [Signal v. Noise in the RSA Innovation Sandbox](https://www.returnonsecurity.com/signal-v-noise-in-the-rsa-innovation-sandbox/)
-* [AWS Phishing: Four Ways](https://ramimac.me/aws-phishing) & [AWS Could Do More About SSO Device Auth Phishing ](https://ramimac.me/aws-device-auth)
+* [AWS Phishing: Four Ways](https://ramimac.me/aws-phishing), [AWS Could Do More About SSO Device Auth Phishing ](https://ramimac.me/aws-device-auth), and [AWS SES Verification Phishing](https://ramimac.me/more-aws-phishing)
 * *Datadog Security Labs* [A retrospective on public cloud breaches of 2022, with Rami McCarthy and Houston Hopkins
 ](https://securitylabs.datadoghq.com/articles/public-cloud-breaches-2022-mccarthy-hopkins/)
 * *tl;dr sec*
