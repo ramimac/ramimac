@@ -7,6 +7,7 @@ I'm Rami (he/him). I'm a former security consultant, turned Product Security Eng
 
 **Blogging**
 
+* [Did your research: Prior Art for “15 ideas for cloud security research”](https://ramimac.me/prior-art)
 * [Steampipe + Access Advisor](https://ramimac.me/access-advisor-steampipe)
 * [Quick Tip: Minimizing Terraformed SCPs](https://ramimac.me/terraform-minimized-scps)
 * [A History of Human Interaction Proofs](https://ramimac.me/history-of-captcha)
