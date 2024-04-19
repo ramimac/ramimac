@@ -7,6 +7,9 @@ I'm Rami (he/him). I'm a former security consultant, turned Product Security Eng
 
 **Blogging**
 
+* *Venture in Security* [Customer love: a recipe for building winning cybersecurity startups](https://ventureinsecurity.net/p/customer-love-a-recipe-for-building)
+* [Deciding on S3 Intelligent Tiering](https://ramimac.me/s3-it)
+* [The state of ABAC on AWS (in 2024)](https://ramimac.me/abac)
 * [Did your research: Prior Art for “15 ideas for cloud security research”](https://ramimac.me/prior-art)
 * [Steampipe + Access Advisor](https://ramimac.me/access-advisor-steampipe)
 * [Quick Tip: Minimizing Terraformed SCPs](https://ramimac.me/terraform-minimized-scps)
