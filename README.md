@@ -7,6 +7,8 @@ I'm Rami (he/him). I'm a former security consultant, turned Product Security Eng
 
 **Blogging**
 
+* *tl;dr sec* [Security is a Team Sport](https://tldrsec.com/p/security-is-a-team-sport)
+* [10 Things Your First Security Hire Shouldn’t Do](https://ramimac.me/ten-things)
 * *Venture in Security* [Customer love: a recipe for building winning cybersecurity startups](https://ventureinsecurity.net/p/customer-love-a-recipe-for-building)
 * [Deciding on S3 Intelligent Tiering](https://ramimac.me/s3-it)
 * [The state of ABAC on AWS (in 2024)](https://ramimac.me/abac)
