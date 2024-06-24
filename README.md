@@ -7,47 +7,26 @@ I'm Rami (he/him). I'm a former security consultant, turned Product Security Eng
 
 **Blogging**
 
-* *tl;dr sec* [Security is a Team Sport](https://tldrsec.com/p/security-is-a-team-sport)
+I frequently write on security (industry, programs, technology) over at [ramimac.me](https://ramimac.me). I've previously contributed to or written for tl;dr sec, Venture in Security, Return on Security, Datadog, and past employers (Cedar, NCC Group). All past writing is syndicated to my personal site.
+
+***Highlights***
+
+* [rami.wiki - a collection of knowledge hubs](https://rami.wiki)
+* *tl;dr sec* [Don’t Security Engineer Asymmetric Workloads](https://tldrsec.com/p/dont-security-engineer-asymmetry)
 * [10 Things Your First Security Hire Shouldn’t Do](https://ramimac.me/ten-things)
 * *Venture in Security* [Customer love: a recipe for building winning cybersecurity startups](https://ventureinsecurity.net/p/customer-love-a-recipe-for-building)
-* [Deciding on S3 Intelligent Tiering](https://ramimac.me/s3-it)
-* [The state of ABAC on AWS (in 2024)](https://ramimac.me/abac)
-* [Did your research: Prior Art for “15 ideas for cloud security research”](https://ramimac.me/prior-art)
-* [Steampipe + Access Advisor](https://ramimac.me/access-advisor-steampipe)
-* [Quick Tip: Minimizing Terraformed SCPs](https://ramimac.me/terraform-minimized-scps)
-* [A History of Human Interaction Proofs](https://ramimac.me/history-of-captcha)
-* [Risk in AWS SSM Port Forwarding](https://ramimac.me/ssm-iam)
-* [Shipping RDS IAM Authentication (with a bastion host & SSM)](https://ramimac.me/rds-iam-auth)
-* [rami.wiki](https://rami.wiki)
 * [A Guide to S3 Logging](https://ramimac.me/s3-logging)
-* [Reducing Attack Surface with AWS Allowlisting](https://ramimac.me/aws-allowlisting)
-* *Return on Security* [Signal v. Noise in the RSA Innovation Sandbox](https://www.returnonsecurity.com/signal-v-noise-in-the-rsa-innovation-sandbox/)
-* [AWS Phishing: Four Ways](https://ramimac.me/aws-phishing), [AWS Could Do More About SSO Device Auth Phishing ](https://ramimac.me/aws-device-auth), and [AWS SES Verification Phishing](https://ramimac.me/more-aws-phishing)
-* *Datadog Security Labs* [A retrospective on public cloud breaches of 2022, with Rami McCarthy and Houston Hopkins
-](https://securitylabs.datadoghq.com/articles/public-cloud-breaches-2022-mccarthy-hopkins/)
-* *tl;dr sec*
-  * [How to securely build product features using AI APIs](https://tldrsec.com/p/securely-build-product-ai-machine-learning)
-  * [Staff Security Engineer (stories)](https://tldrsec.com/guides/staffeng-security/)
-  * [Cloud Security Orienteering](https://tldrsec.com/blog/cloud-security-orienteering/)
-  * [Buying Security: A Client's Guide](https://tldrsec.com/guides/buying-security/)
-* [Removing sensitive data from a Github repository](http://ramimac.me/security/Github-Cleanup/) 
-* [An AWS IAM Security Tooling Reference](https://ramimac.me/cloudsec/security/aws-iam-tool-reference/) 
-* *Cedar* [Defining Cedar's Security Values](https://decode.cedar.com/defining-cedars-security-values/)
-* *NCC Group* 
-  * [One Thousand Misspelled Security Headers](https://web.archive.org/web/20191111000822/https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/july/misspelled-security-headers/)
-  * A guide to hardening enterprise Chromebooks (in three parts)
-    * [Part One: Baseline Security Posture](https://web.archive.org/web/20191117201110/https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/july/chromebooks/)
-    * [Part Two: ChromeOS Hardening](https://web.archive.org/web/20191117201434/https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/july/chromebooks2/)
-    * [Part Three: Chrome Browser Configuration](https://web.archive.org/web/20200428220637/https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2019/july/chromebooks-3)
-  * [The Extended AWS Security Ramp-up Guide](https://research.nccgroup.com/2020/04/24/the-extended-aws-security-ramp-up-guide/)
-  * [An offensive guide to the Authorization Code grant](https://research.nccgroup.com/2020/07/07/an-offensive-guide-to-the-authorization-code-grant/)
+* *tl;dr sec* [How to securely build product features using AI APIs](https://tldrsec.com/p/securely-build-product-ai-machine-learning)
+* *tl;dr sec* [Cloud Security Orienteering](https://tldrsec.com/blog/cloud-security-orienteering/)
 
-**Tooling**
+_Cloud Vulnerability Research_
+* [Publicly Exposed AWS Document DB Snapshots](https://ramimac.me/exposed-docdb)
+* [Risk in AWS SSM Port Forwarding](https://ramimac.me/ssm-iam)
 
-* Contributor to [ScoutSuite](https://github.com/nccgroup/scoutsuite) as well as the proprietary branch
-* Developer of [sadcloud](https://github.com/nccgroup/sadcloud)
+
 
 **Speaking**
+* [fwd:cloudsec 2024 - The Path to Zero Touch Production](https://www.youtube.com/watch?v=agzrIBY0ScQ)
 * [SEC-T 0x0F - Beyond the Baseline: Horizons for Cloud Security Programs](https://www.youtube.com/watch?v=YPuxkgRVk1Y)
 * [fwd:cloudsec 2023 - Beyond the AWS Security Maturity Roadmap](https://www.youtube.com/watch?v=V4TIcBSR1w8)
 * [BSidesSF May 2023 - Level Up Your Career: A Panel on Staff+ Engineering](https://www.youtube.com/watch?v=OJyFP14tgjk)
