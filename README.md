@@ -20,6 +20,7 @@ I frequently write on security (industry, programs, technology) over at [ramimac
 * *tl;dr sec* [Cloud Security Orienteering](https://tldrsec.com/blog/cloud-security-orienteering/)
 
 _Cloud Vulnerability Research_
+* [RDS Snapshot Public Sharing bug](https://ramimac.me/rds-sharing)
 * [Publicly Exposed AWS Document DB Snapshots](https://ramimac.me/exposed-docdb)
 * [Risk in AWS SSM Port Forwarding](https://ramimac.me/ssm-iam)
 
