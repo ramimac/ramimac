@@ -27,6 +27,10 @@ _Cloud Vulnerability Research_
 
 
 **Speaking**
+
+Slides available for all talks at https://speakerdeck.com/ramimac
+
+* [fwd:cloudsec Europe 2024 - How to 10X Your Cloud Security (Without the Series D)](https://www.youtube.com/watch?v=DgWLWtFbO_o)
 * [fwd:cloudsec 2024 - The Path to Zero Touch Production](https://www.youtube.com/watch?v=agzrIBY0ScQ)
 * [SEC-T 0x0F - Beyond the Baseline: Horizons for Cloud Security Programs](https://www.youtube.com/watch?v=YPuxkgRVk1Y)
 * [fwd:cloudsec 2023 - Beyond the AWS Security Maturity Roadmap](https://www.youtube.com/watch?v=V4TIcBSR1w8)
