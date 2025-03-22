@@ -12,6 +12,7 @@ I frequently write on security (industry, programs, technology) over at [ramimac
 ***Highlights***
 
 * [rami.wiki - a collection of knowledge hubs](https://rami.wiki)
+* [How to Say No Well](https://ramimac.me/saying-no)
 * *tl;dr sec* [Don’t Security Engineer Asymmetric Workloads](https://tldrsec.com/p/dont-security-engineer-asymmetry)
 * [10 Things Your First Security Hire Shouldn’t Do](https://ramimac.me/ten-things)
 * *Venture in Security* [Customer love: a recipe for building winning cybersecurity startups](https://ventureinsecurity.net/p/customer-love-a-recipe-for-building)
@@ -23,6 +24,7 @@ _Cloud Vulnerability Research_
 * [RDS Snapshot Public Sharing bug](https://ramimac.me/rds-sharing)
 * [Publicly Exposed AWS Document DB Snapshots](https://ramimac.me/exposed-docdb)
 * [Risk in AWS SSM Port Forwarding](https://ramimac.me/ssm-iam)
+* [CVE-2025-30154 - reviewdog/action-setup@v1 compromise](https://www.wiz.io/blog/new-github-action-supply-chain-attack-reviewdog-action-setup)
 
 
 
