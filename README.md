@@ -1,6 +1,6 @@
 ### Heyo 👋
 
-I'm Rami (he/him). I'm a former security consultant, turned Product Security Engineer. Always happy to talk shop - you can [find me on Twitter](https://twitter.com/ramimacisabird).
+I'm Rami (he/him). I'm a former security consultant, turned Product Security Engineer, turned Researcher. Always happy to talk shop - you can [find me on Twitter](https://twitter.com/ramimacisabird).
 
 ### Some things I've done
 
