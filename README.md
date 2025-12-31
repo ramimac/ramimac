@@ -15,10 +15,8 @@ I frequently write on security (industry, programs, technology) over at [ramimac
 * [How to Say No Well](https://ramimac.me/saying-no)
 * *tl;dr sec* [Don’t Security Engineer Asymmetric Workloads](https://tldrsec.com/p/dont-security-engineer-asymmetry)
 * [10 Things Your First Security Hire Shouldn’t Do](https://ramimac.me/ten-things)
-* *Venture in Security* [Customer love: a recipe for building winning cybersecurity startups](https://ventureinsecurity.net/p/customer-love-a-recipe-for-building)
 * [A Guide to S3 Logging](https://ramimac.me/s3-logging)
 * *tl;dr sec* [How to securely build product features using AI APIs](https://tldrsec.com/p/securely-build-product-ai-machine-learning)
-* *tl;dr sec* [Cloud Security Orienteering](https://tldrsec.com/blog/cloud-security-orienteering/)
 
 _Cloud Vulnerability Research_
 * [RDS Snapshot Public Sharing bug](https://ramimac.me/rds-sharing)
